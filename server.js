@@ -5,6 +5,7 @@
 
 var express = require("express");
 var path = require("path");
+var fs = require("fs");
 
 // ==============================================================================
 // EXPRESS CONFIGURATION
@@ -35,6 +36,6 @@ require("./app/routing/htmlRoutes")(app);
 // The below code effectively "starts" our server
 // =============================================================================
 
-app.listen(PORT, function() {
+app.listen(PORT, function () {
   console.log("App listening on PORT: " + PORT);
 });
