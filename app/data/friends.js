@@ -1,7 +1,7 @@
 var newFriend = [
   {
     "name":"Lupe",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"http://synergytrainingsolutions.org/wp-content/uploads/2017/12/AdobeStock_6968750.jpeg",
     "scores":[
         5,
         1,
@@ -17,7 +17,7 @@ var newFriend = [
   },
   {
     "name":"Juan",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"https://www.milenio.com/uploads/media/2018/12/28/aseguro-que-si-es-necesario_0_50_1666_1037.jpg",
     "scores":[
         5,
         1,
@@ -33,7 +33,7 @@ var newFriend = [
   },
   {
     "name":"Bob",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"https://peopledotcom.files.wordpress.com/2018/11/joe-biden.jpg?w=2000",
     "scores":[
         1,
         1,
